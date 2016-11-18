@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartPhysic</string>
+    <string name="desc">Selamat datang di aplikasi SmartPhysic yang dapat membantu belajar materi fisika</string>
+    <string name="next">Selanjutnya</string>
+</resources>
